@@ -1,0 +1,2 @@
+# MavenWithAndroidGradle
+用github搭建Maven，android studio使用gradle上传lib到Maven
